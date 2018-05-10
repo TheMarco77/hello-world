@@ -10,8 +10,7 @@ My professional path has been all in Microsoft Windows platforms.
 <ul>
   <li>HelpDesk</li>
   <li>Desktop Support</li>
-    <li>Executive Desktop Support</li>
-      <li>Server Support</li>
+    <li>Server Support / Executive Desktop Support</li>
         <li>Clinical Application Support</li>
           <li>EHR Support</li>
             <li>Application Analyst and Application Training</li>
